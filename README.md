@@ -2,7 +2,7 @@
 <div id="about" align="center">
   <h2>🧑‍💻 About me</h2>
   <p>
-    ✌️ I am Denis Hrebeniuk, a back-end developer from Ukraine. I am decent,
+    ✌️ I am <strong>Denis Hrebeniuk</strong>, a <strong>back-end developer</strong> from Ukraine. I am decent,
     sociable, I like to set and achieve complex goals on my way.
   </p>
   <p>
