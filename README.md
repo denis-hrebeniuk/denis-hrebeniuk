@@ -108,6 +108,27 @@
     </a>
   </div>
 </div>
+<div id="certificates" align="center">
+  <h2>🚀 Certificates</h2>
+  <div id="languages-certificates">
+    <table>
+      <thead>
+        <tr>
+          <th>Certificate</th>
+        </tr>
+      </thead>
+      <tr>
+        <td>
+          <a href="https://stepik.org/cert/1538860">
+            <img
+              src="https://github.com/denis-hrebeniuk/denis-hrebeniuk/blob/main/stepik-go.png?raw=true"
+            />
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
 <div id="stats" align="center">
   <h2>📈 Stats</h2>
   <div id="github-stats">
