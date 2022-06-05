@@ -26,6 +26,11 @@
         src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=22272E&labelColor=f0f0f0"
       />
     </a>
+    <a href="https://go.dev/">
+      <img
+        src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=22272E&labelColor=f0f0f0"
+      />
+    </a>
   </div>
   <h3>Platforms</h3>
   <div id="platforms">
