@@ -10,6 +10,9 @@
     <strong>Kotlin for mobile development</strong> and
     <strong>Python for back-end development</strong>.
   </p>
+  <p>
+    ✍ I started programming at the age of 11, and since then I have tried my hand in many fields such as desktop and mobile software development, the development of Telegram/Discord bots, and even the development of a library using the NDK and C++.
+  </p>
 </div>
 <div id="skills" align="center">
   <h2>🚀 Skills</h2>
