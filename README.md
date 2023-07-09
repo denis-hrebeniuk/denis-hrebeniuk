@@ -1,14 +1,14 @@
 <h1 align="center">🙋 Hello!</h1>
 <div id="about" align="center">
-  <h2>🧑‍💻 About me</h2>
+  <h2>👨‍💻 About me</h2>
   <p>
-    ✌️ I am <strong>Denis Hrebeniuk</strong>, a
-    <strong>back-end developer</strong> from Ukraine.
+    ✌️ I am <strong>Denis Hrebeniuk</strong>, an
+    <strong>android developer</strong> from Ukraine.
   </p>
   <p>
     🎓 Currently, I am learning and using
     <strong>Kotlin for mobile development</strong> and
-    <strong>Go for back-end development</strong>.
+    <strong>Python for back-end development</strong>.
   </p>
 </div>
 <div id="skills" align="center">
@@ -20,9 +20,14 @@
         src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"
       />
     </a>
-    <a href="https://go.dev/">
+    <a href="https://www.java.com/">
       <img
-        src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
+        src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
+      />
+    </a>
+    <a href="https://www.python.org/">
+      <img
+        src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
       />
     </a>
     <a href="https://www.javascript.com/">
@@ -31,16 +36,11 @@
       />
     </a>
   </div>
-  <h3>Frameworks, Platforms, Libraries</h3>
-  <div id="platforms">
+  <h3>Frameworks, Platforms and Libraries</h3>
+  <div id="frameworks-platforms-libraries">
     <a href="https://nodejs.org/">
       <img
         src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
-      />
-    </a>
-    <a href="https://www.npmjs.com/">
-      <img
-        src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"
       />
     </a>
     <a href="https://www.electronjs.org/">
@@ -59,14 +59,6 @@
       />
     </a>
   </div>
-  <h3>SDKs</h3>
-  <div id="sdks">
-    <a href="https://developer.android.com/studio">
-      <img
-        src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"
-      />
-    </a>
-  </div>
   <h3>Databases</h3>
   <div id="databases">
     <a href="https://www.mysql.com/">
@@ -74,27 +66,27 @@
         src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
       />
     </a>
+    <a href="https://www.sqlite.org/">
+      <img
+        src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"
+      />
+    </a>
   </div>
   <h3>Software and tools</h3>
   <div id="software-and-tools">
-    <a href="https://code.visualstudio.com/">
-      <img
-        src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"
-      />
-    </a>
-    <a href="https://developer.android.com/studio">
-      <img
-        src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"
-      />
-    </a>
-    <a href="https://www.jetbrains.com/idea/">
-      <img
-        src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"
-      />
-    </a>
     <a href="https://git-scm.com/">
       <img
         src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"
+      />
+    </a>
+    <a href="https://replit.com/">
+      <img
+        src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"
+      />
+    </a>
+    <a href="https://www.sourcetreeapp.com/">
+      <img
+        src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"
       />
     </a>
   </div>
