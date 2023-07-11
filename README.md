@@ -3,7 +3,7 @@
   <h2>👨‍💻 About me</h2>
   <p>
     ✌️ I am <strong>Denis Hrebeniuk</strong>, an
-    <strong>android developer</strong> from Ukraine.
+    <strong>developer</strong> from Ukraine.
   </p>
   <p>
     🎓 Currently, I am learning and using
