@@ -2,7 +2,7 @@
 <div id="about" align="center">
   <h2>👨‍💻 About me</h2>
   <p>
-    ✌️ I am <strong>Denis Hrebeniuk</strong>, an
+    ✌️ I am <strong>Denis Hrebeniuk</strong>, a
     <strong>developer</strong> from Ukraine.
   </p>
   <p>
